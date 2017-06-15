@@ -14,8 +14,7 @@
 
 ## Setup/Installation Procedure
    * ### To install the android app through the Google Play Store
-     1. Sign up for the alpha release on the play store [here](https://play.google.com/apps/testing/com.lpoo.game).
-     2. Download and install the app on your android smartphone.
+     1. Download and install the app on your android smartphone from the play store ([link](https://play.google.com/store/apps/details?id=com.lpoo.game)).
      
    * ### To install the android app from the .apk file (for the latest version install from the play store)
      1. Download the apk [here](https://drive.google.com/open?id=0B-xX6gDQNtKSZkQ3VG5WQ2liM1E).
@@ -26,8 +25,9 @@
      2. Run the file from the terminal or by double-clicking it.
    
    * ### To install the development environment
-     1. Simply clone this repository and open it with Android Studio.
-     2. To assemble a release apk you will need to change the signing settings to your own, or assemble an unsigned apk.
+     1. Clone this repository and open it with Android Studio.
+     2. Set your Run Configuration to work in android/assets folder.
+     3. To assemble a release apk you will need to change the signing settings to your own, or assemble an unsigned apk.
 
 ## Video Tutorial
 <a href="https://youtu.be/IB0OUY351hI"><img width="1440" alt="screen shot 2017-06-11 at 23 36 28" src="https://user-images.githubusercontent.com/13498941/27015115-f789a0ca-4efe-11e7-994b-0842b77e5ae0.png"></a>
